@@ -1,9 +1,9 @@
-### Hi there 👋
+### Olá, Seja bem-vindo ao meu perfil💻
 
 <div>
   <a href="https://github.com/lucassousa12">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucassousa12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassousa12&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucassousa12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassousa12&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <!--
 **lucassousa12/lucassousa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
